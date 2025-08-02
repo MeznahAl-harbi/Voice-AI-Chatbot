@@ -69,11 +69,16 @@ python voice_chatbot.py
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
+  ---
+
 ## 🎥 Example Outputs
 
-Here are sample videos demonstrating how the chatbot responds to spoken input:
+Here are sample outputs demonstrating how the chatbot responds to spoken input:
 
-- [Screenshot.png](./Screenshot.png)
-  
-- [response_demo_1.mp4](./response_demo_1.mp4)
+### 📸 GUI Screenshot
+![Chatbot Screenshot](Screenshot.png)
 
+### 📹 Demo Video
+[▶️ Click to watch the demo response video](./response_demo_1.mp4)
+
+> Note: GitHub doesn't support inline video playback in README files. Click the link above to download or play the demo video.
