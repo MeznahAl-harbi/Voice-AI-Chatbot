@@ -1,10 +1,9 @@
 openai-whisper
 sounddevice
 scipy
-gtts
+gTTS
 langchain
 langchain-community
 langchain-cohere==0.2.4
 cohere>=5.3,<6.0
 playsound
-gradio
