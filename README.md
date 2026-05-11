@@ -78,7 +78,6 @@ Here are sample outputs demonstrating how the chatbot responds to spoken input:
 ### 📸 GUI Screenshot
 ![Chatbot Screenshot](Screenshot.png)
 
-### 📹 Demo Video
-[▶️ Click to watch the demo response video](./response_demo_1.mp4)
+## ✨ Updated Echo Mind Interface
 
-> Note: GitHub doesn't support inline video playback in README files. Click the link above to download or play the demo video.
+![Updated Echo Mind UI](update.png)
